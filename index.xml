@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EducaPad</title>
@@ -64,8 +64,8 @@ Réseau filaire Le réseau de l&amp;rsquo;école est un fondement des plus sensi
       <pubDate>Sun, 25 Nov 2018 17:37:31 +0100</pubDate>
       
       <guid>https://www.educapad.fr/solutions/idp/</guid>
-      <description>La fédération d&amp;rsquo;identité est le service assuré par VMware Identity Manager. Le principe est simple : un service tiers se repose sur un service sous votre contrôle pour identifier vos utilisateurs.
-Par exemple, lorsque l&amp;rsquo;utilisateur cherche à accéder à ses e-mails ou ses documents Google Suite depuis son iPad, il doit être authentifié. S&amp;rsquo;il ne l&amp;rsquo;est pas déjà, Google redirigera l&amp;rsquo;utilisateur vers Identity Manager afin d&amp;rsquo;être authentifié. Si la tablette est gérée par l&amp;rsquo;école, Identity Manager découvrira automatiquement l&amp;rsquo;identité de l&amp;rsquo;utilisateur et reniera la réponse à Google.</description>
+      <description>La fédération d&amp;rsquo;identité est le service assuré par Workspace ONE Access. Le principe est simple : un service tiers se repose sur un service sous votre contrôle pour identifier vos utilisateurs.
+Par exemple, lorsque l&amp;rsquo;utilisateur cherche à accéder à ses e-mails ou ses documents Google Suite depuis son iPad, il doit être authentifié. S&amp;rsquo;il ne l&amp;rsquo;est pas déjà, Google redirigera l&amp;rsquo;utilisateur vers WS1 Access afin d&amp;rsquo;être authentifié. Si la tablette est gérée par l&amp;rsquo;école, WS1 Access découvrira automatiquement l&amp;rsquo;identité de l&amp;rsquo;utilisateur et reniera la réponse à Google.</description>
     </item>
     
     <item>
@@ -129,7 +129,7 @@ Apple s’est illustré depuis des années à la fois dans :
       <guid>https://www.educapad.fr/mentions-legales/</guid>
       <description>Ce site web est la propriété de la société Abelionni, E.U.R.L. au capital de 6 000 € enregistré au R.C.S. d’Aix-en-Provence sous le numéro 814 274 445, disposant du numéro de TVA intracommunautaire FR82814274445, du numéro DUNS 267572437 et domicilié au 12 B Chemin de la bergerie, 13740, Le Rove, France.
 Vous pouvez contacter la société Abelionni au +33 9 79 94 41 64 ou à l’adresse contact@abelionni.com.
-Il est placé sous la responsabilité éditoriale de Yoann Gini, gérant de la société et est hébergé par la société Infomaniak Network SA domiciliée au 26 avenue de la Praille, 1227, Genève, Suisse.</description>
+Il est placé sous la responsabilité éditoriale de Yoann Gini, gérant de la société et est hébergé par la société GitHub, Inc.</description>
     </item>
     
   </channel>
